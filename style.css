@@ -1,0 +1,19 @@
+body {
+    background-color: aqua;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.header, #resume {
+    padding: 10px;
+    margin-left: 5px;
+}
+
+.header{
+    text-decoration: underline;
+}
+
+#resume {
+    background-color: aquamarine;
+    font-family: Roboto;
+}
+
